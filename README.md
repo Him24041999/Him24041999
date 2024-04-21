@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Him24041999/Him24041999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Readme
 
-Here are some ideas to get you started:
+## Technical Skills:
+Programming: Python, SQL, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Engineering: Apache Spark, Hadoop (HDFS), Hive, ETL, Data Warehousing, Databricks, Delta Lake, Kafka
+
+Databases: Microsoft SQL Server, MySQL, PostgreSQL, Oracle, HBase
+
+Data Visualization Tools: Power BI, Tableau, Plotly, Google Data Studio, Looker
+
+Libraries: TensorFlow, scikit-learn, PyHive, Seaborn, Pandas, NumPy, Matplotlib
+
+Core Competencies: Machine Learning, Data Modeling, Big Data Analysis, REST APIs, Statistics
+
+
+## Projects
+
+### [LOS ANGELES CRIME DATA: UNCOVERING TRENDS AND PATTERNS](https://github.com/Him24041999/Los-Angeles-Crime-Data-Analysis)
+### [Adult-Income Prediction](https://github.com/Him24041999/Adult-Income-Prediction)
+### [STRATEGIC-CUSTOMER-INSIGHTS-AND-MARKET-OPTIMIZATION-THROUGH-RFM-ANALYSIS-IN-ECOMMERCE](https://github.com/Him24041999/STRATEGIC-CUSTOMER-INSIGHTS-AND-MARKET-OPTIMIZATION-THROUGH-RFM-ANALYSIS-IN-ECOMMERCE))
+### [EEG-Classification-Model](https://github.com/Him24041999/EEG-Classification-Model)
+### [Online-Shopping-Cart](https://github.com/Him24041999/Online-Shopping-Cart)
