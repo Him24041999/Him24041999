@@ -1,6 +1,3 @@
-### Hi there 👋
-
-# Readme
 
 ## Technical Skills:
 Programming: Python, SQL, C++
