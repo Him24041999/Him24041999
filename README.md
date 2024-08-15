@@ -1,22 +1,27 @@
+![Himanshu Randad](https://github.com/user-attachments/assets/d7a8c9d8-23f1-4cd4-b4dc-b750c896ee43)
 
-## Technical Skills:
-Programming: Python, SQL, C++
+Welcome to my GitHub profile! I'm a data enthusiast passionate about turning raw data into actionable insights. Currently pursuing a Master of Science in Data Analytics at Northeastern University, I aim to leverage data to solve real-world problems and uncover hidden patterns.
 
-Data Engineering: Apache Spark, Hadoop (HDFS), Hive, ETL, Data Warehousing, Databricks, Delta Lake, Kafka
+## 🚀 About Me
 
-Databases: Microsoft SQL Server, MySQL, PostgreSQL, Oracle, HBase
+I'm driven by a fascination with data science and analytics. My journey has been shaped by both my academic background and professional experiences. My skills include data mining, visualization, and machine learning, and I'm always eager to explore new challenges in the data domain.
 
-Data Visualization Tools: Power BI, Tableau, Plotly, Google Data Studio, Looker
+## 💼 Experience
 
-Libraries: TensorFlow, scikit-learn, PyHive, Seaborn, Pandas, NumPy, Matplotlib
+### Data Analyst at Wipro Limited
+- **Achievements:** Boosted productivity by 20% through Python and SQL analysis. Reduced manual processes by 60% with Python scripts. Improved inventory management by 35% and reduced supply chain risks by 10%.
 
-Core Competencies: Machine Learning, Data Modeling, Big Data Analysis, REST APIs, Statistics
+### Data Science Intern at Rahitech Solutions
+- **Highlights:** Enhanced SQL skills, improving data extraction efficiency. Optimized machine learning models, achieving a 10% increase in prediction accuracy.
 
+## 🔧 Skills
 
-## Projects
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow), SQL, R, C++
+- **Data Engineering:** Apache Spark, Hadoop (HDFS), Hive, ETL, Databricks, Kafka, Scala
+- **Visualization Tools:** Power BI, Tableau, Plotly
+- **Machine Learning:** Regression, Classification, Clustering, PCA, Hypothesis Testing, Decision Modeling
 
-### [LOS ANGELES CRIME DATA: UNCOVERING TRENDS AND PATTERNS](https://github.com/Him24041999/Los-Angeles-Crime-Data-Analysis)
-### [Adult-Income Prediction](https://github.com/Him24041999/Adult-Income-Prediction)
-### [STRATEGIC-CUSTOMER-INSIGHTS-AND-MARKET-OPTIMIZATION-THROUGH-RFM-ANALYSIS-IN-ECOMMERCE](https://github.com/Him24041999/STRATEGIC-CUSTOMER-INSIGHTS-AND-MARKET-OPTIMIZATION-THROUGH-RFM-ANALYSIS-IN-ECOMMERCE)
-### [EEG-Classification-Model](https://github.com/Him24041999/EEG-Classification-Model)
-### [Online-Shopping-Cart](https://github.com/Him24041999/Online-Shopping-Cart)
+## 🌟 Let's Connect!
+
+Explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/himanshu-randad/) and [GitHub](https://github.com/Him24041999). I'm always open to discussing new projects, data challenges, or just exchanging ideas!
+
